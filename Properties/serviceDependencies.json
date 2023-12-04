@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Kuchta_Ethan_FinalProjectCpContext"
+    }
+  }
+}
